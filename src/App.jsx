@@ -101,6 +101,7 @@ export default function App() {
 
   function handleTeamSelectionChange(event) {
     //console.log(event.target.value);
+    //Setting it
     setTeam(event.target.value);
   }
 
